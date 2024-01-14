@@ -1,8 +1,5 @@
 # **Linked Lists Experimentation**
 
-Node Structure Created.
-Linked List Class Creation.
-
 ## **Linked List Class Methods:**
   1. Append
   2. Length
